@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "IA-MixMatch: Imbalance-aware MixMatch for semi-supervised multi-label chest X-ray classification"
+type: software
+license: MIT
+repository-code: "https://github.com/bsnegara/ia-mixmatch"
+authors:
+  - family-names: Negara
+    given-names: Benny Sukma
+    orcid: "https://orcid.org/0000-0001-8455-0912"
+    affiliation: "Universitas Islam Negeri Sultan Syarif Kasim Riau"
+  - family-names: Irsyad
+    given-names: Muhammad
+    orcid: "https://orcid.org/0000-0002-5306-6084"
+    affiliation: "Universitas Islam Negeri Sultan Syarif Kasim Riau"
+  - name: Darwan
+    orcid: "https://orcid.org/0000-0002-4299-7051"
+    affiliation: "Universitas Islam Negeri Siber Syekh Nurjati Cirebon"
+preferred-citation:
+  type: article
+  title: "Imbalance-aware MixMatch for semi-supervised multi-label chest X-ray classification"
+  journal: "IAES International Journal of Artificial Intelligence"
+  year: 2026
+  notes: "Under review"
+  authors:
+    - family-names: Negara
+      given-names: Benny Sukma
+    - family-names: Irsyad
+      given-names: Muhammad
+    - name: Darwan
