@@ -1,5 +1,7 @@
 # IA-MixMatch: Imbalance-aware MixMatch for semi-supervised multi-label chest X-ray classification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23178791.svg)](https://doi.org/10.5281/zenodo.23178791)
+
 Code and data splits for the paper
 
 > B. S. Negara, M. Irsyad, and Darwan, "Imbalance-aware MixMatch for semi-supervised multi-label chest X-ray
@@ -119,6 +121,11 @@ The full set of 120 runs takes roughly 55 to 60 GPU hours on an NVIDIA L4. IA-Mi
 time of MixMatch (0.307 vs. 0.305 s per iteration).
 
 ## Citation
+
+Code archive: B. S. Negara, M. Irsyad, and Darwan, *IA-MixMatch* (v1.0.1), Zenodo, 2026, doi: [10.5281/zenodo.23178792](https://doi.org/10.5281/zenodo.23178792).
+The DOI [10.5281/zenodo.23178791](https://doi.org/10.5281/zenodo.23178791) always resolves to the latest version.
+
+Paper:
 
 ```bibtex
 @article{negara2026iamixmatch,

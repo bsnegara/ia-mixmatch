@@ -3,6 +3,9 @@ message: "If you use this code, please cite the paper below."
 title: "IA-MixMatch: Imbalance-aware MixMatch for semi-supervised multi-label chest X-ray classification"
 type: software
 license: MIT
+doi: "10.5281/zenodo.23178791"
+version: "1.0.1"
+date-released: "2026-10-06"
 repository-code: "https://github.com/bsnegara/ia-mixmatch"
 authors:
   - family-names: Negara
